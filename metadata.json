@@ -1,0 +1,7 @@
+{
+  "name": "Your Studio - Angular SEO Photography Starter",
+  "description": "Professional, SEO-optimized photography studio website built with Angular, Standalone Components, and dynamic metadata management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
