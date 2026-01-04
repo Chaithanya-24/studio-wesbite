@@ -1,7 +1,6 @@
 {
-  "name": "Your Studio - Angular SEO Photography Starter",
-  "description": "Professional, SEO-optimized photography studio website built with Angular, Standalone Components, and dynamic metadata management.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "name": "Your Studio - Angular Photography Website",
+  "description": "Professional, SEO-optimized photography studio website built with Angular 18, Standalone Components, Signals, and dynamic metadata management using Vite + Analog.js.",
+  "framework": "Angular",
+  "version": "18.2.0"
 }
